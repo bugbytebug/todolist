@@ -1,2 +1,3 @@
-# todolist
-A practice todolist using html css and javascript
+# Todolist
+A practice to-do list using HTML, CSS and JavaScript.
+Here you can add the tasks and strike them off if you have completed that task. In case you don't want that anymore, you can even delete the task.
